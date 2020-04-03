@@ -58,3 +58,12 @@
 		<li><a rel=prefetch class:selected='{segment === "blog"}' href='blog'>blog</a></li>
 	</ul>
 </nav>
+
+<template lang="pug">
+	div.p16
+		h2 pug 使ってみた
+		ul
+			li.border.p8.mr8 hoge
+			li.border.p8.mr8 foo
+			li.border.p8.mr8 bar
+</template>

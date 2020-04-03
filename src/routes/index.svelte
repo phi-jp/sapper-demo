@@ -32,9 +32,11 @@
 	}
 </style>
 
-<svelte:head>
-	<title>Sapper project template</title>
-</svelte:head>
+<template lang="pug">
+	svelte:head
+		title Sapper project template
+</template>
+
 
 <h1>Great success!</h1>
 
